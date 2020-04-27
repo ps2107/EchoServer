@@ -1,7 +1,6 @@
-# EchoServer
-
-import java.net.*;
-import java.io.*;
+#EchoServer
+import java.net. *;
+import java.io.*; 
 
 public class EchoServer {
     private int port;
